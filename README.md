@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Primeras pruebas en GitHub PrepCourse 2 HENRY
+# JUAN MANUEL SALVA ROSALDO
+Haciendo las pruebas del uso de commits desde simbolo del sistema a traves del comando push
